@@ -55,4 +55,4 @@ fix-permissions ./
 
 #export DT_TENANT=$my-tenant
 #export DT_API_TOKEN=$my-api-token
-curl https://files.dynatrace.com/saas/agent/paas-install.sh | sh
+#curl https://files.dynatrace.com/saas/agent/paas-install.sh | sh
